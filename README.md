@@ -9,4 +9,4 @@ High-performance H5AD file processing tool, which converts single-cell H5AD file
 - **Parallel processing** - Multi-threading/multi-process acceleration
 - **Web-friendly output** - Generates data formats suitable for web visualization 
 ## 📦 Installation 
-Installing from source code
+pip install umapvipr
