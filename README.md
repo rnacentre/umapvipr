@@ -31,3 +31,5 @@ The uampvipr tool provides a command-line interface (CLI) and an interactive int
     'test_umap',# path to the directory containing files suitable for web visualization
     config=config
     )
+## Issues
+Let me know if you have any other questions! Please submit any issues or questions as GitHub issues.
