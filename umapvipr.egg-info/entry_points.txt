@@ -1,0 +1,2 @@
+[console_scripts]
+umapvipr = umapvipr.cli:main
